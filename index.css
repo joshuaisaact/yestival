@@ -52,7 +52,6 @@ h1 {
 
 h2 {
     color: #ffffff;
-    text-shadow: 1px 1px #fff;
     font-size: 28px;
     margin-bottom: 10px;
 }
@@ -89,6 +88,12 @@ img {
     padding: 5px;
     background-color: #fff;
 }
+
+img.thumbnail {
+    width: 100px;
+    height: 100px;
+}
+
 body {
     background-image: url("./Media/bg_stars.gif");
     background-repeat: repeat;
