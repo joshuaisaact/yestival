@@ -90,7 +90,7 @@ img {
     background-color: #fff;
 }
 body {
-    background-image: url("bg_stars.gif");
+    background-image: url("./Media/bg_stars.gif");
     background-repeat: repeat;
   }
 
