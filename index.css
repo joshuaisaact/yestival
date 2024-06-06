@@ -1,7 +1,7 @@
 /* index.css */
 
 /* Apply a basic reset */
-body, h1, h2, p, ul, li {
+body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -59,7 +59,6 @@ h2 {
 
 h3 {
     color: #ffffff;
-    text-shadow: 1px 1px #fff;
     font-size: 28px;
     margin-bottom: 10px;
 }
