@@ -6,6 +6,7 @@ body, h1, h2, p, ul, li {
     padding: 0;
     box-sizing: border-box;
     color: #ffffff;
+    font-family: 'Courier New';
 }
 
 /* Body styling */
